@@ -4,6 +4,8 @@
 This scope of this project is to Analyze Sales data for a Coffee Shop selling its products since 2023 Jan,solve real time business problems and 
 recommand 3 cities for opening a new Coffee shop based on total sales,customer demand and rent for the shop. 
 
+**Using postgreSQL**
+
 ### Key Questions
 1. **Coffee Consumers Count**  
    How many people in each city are estimated to consume coffee, given that 25% of the population does?
