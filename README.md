@@ -38,19 +38,16 @@ Identify top 3 city based on highest sales, return city name, total sale, total 
 Recommendations 
 
 1.Pune 
-
     a. Highest sales around 10 Lakhs
     b. Total customers from Pune is in top 3 i.e 
     c. Rent for the store is less compared to other metro cities which is 15K
 
-2. Chennai
-   
+2. Chennai                                                                                                                                
     a. Total sales around 9 Lakhs
     b. Total no of customers from chennai is in the top 5
     c. Rent for the store is pretty good around 17K
 
-4. Delhi
-   
+3. Delhi                                                                                                                    
      a. Total sales is around 7.5 lakhs
      b. No of customer is 2nd highest in Delhi
      c. Rent for the store is around 22K pretty decent comapred to Mumbai and Bengalore 
