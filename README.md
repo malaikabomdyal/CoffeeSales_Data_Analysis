@@ -1,5 +1,7 @@
 # CoffeeSales_Data_Analysis
 
+![hot-coffee-cup-beans-roating-600nw-577416223](https://github.com/user-attachments/assets/cfc65514-ebd6-411a-8dd9-2e4abddbe503)
+
 ### Objective
 This scope of this project is to Analyze Sales data for a Coffee Shop selling its products since 2023 Jan,solve real time business problems and 
 recommand 3 cities for opening a new Coffee shop based on total sales,customer demand and rent for the shop. 
